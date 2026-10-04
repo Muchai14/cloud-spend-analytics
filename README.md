@@ -59,3 +59,7 @@ python -m streamlit run app.py
 
 Open the Local URL printed in the terminal.
 To stop the application, press Control+C in that terminal.
+
+## Dashboard Preview
+
+![Cloud spending dashboard showing annual spending, budget, and monthly trends](screenshots/dashboard-overview.png)
