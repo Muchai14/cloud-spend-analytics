@@ -1,0 +1,2 @@
+usage_date,team,service,cost_usd,expected_cost_usd,excess_cost_usd,excess_pct
+2025-09-15,ML,Compute,650.31,199.02875,451.28124999999994,226.74173957280038

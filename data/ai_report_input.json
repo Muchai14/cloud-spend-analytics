@@ -1,0 +1,33 @@
+{
+  "report_month": "2025-12",
+  "currency": "USD",
+  "data_source": "Original simulated cloud costs and assumed budgets",
+  "variance_definition": "Actual cost minus budget; positive means over budget",
+  "actual_cost_usd": 18809.78,
+  "budget_usd": 18500.0,
+  "variance_usd": 309.78,
+  "variance_pct": 1.67,
+  "team_details": [
+    {
+      "team": "Data",
+      "actual_cost_usd": 4172.78,
+      "budget_usd": 4100.0,
+      "variance_usd": 72.78,
+      "variance_pct": 1.78
+    },
+    {
+      "team": "Engineering",
+      "actual_cost_usd": 6212.64,
+      "budget_usd": 6200.0,
+      "variance_usd": 12.64,
+      "variance_pct": 0.2
+    },
+    {
+      "team": "ML",
+      "actual_cost_usd": 8424.36,
+      "budget_usd": 8200.0,
+      "variance_usd": 224.36,
+      "variance_pct": 2.74
+    }
+  ]
+}

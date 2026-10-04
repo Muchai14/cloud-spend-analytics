@@ -1,0 +1,19 @@
+# Local Python environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# macOS files
+.DS_Store
+
+# Local editor settings
+.vscode/
